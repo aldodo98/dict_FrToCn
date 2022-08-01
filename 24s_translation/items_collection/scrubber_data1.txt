@@ -1,0 +1,101 @@
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\python.exe D:/scrapyProcesussscrapy/24s_translation/scrubber.py
+
+ Synonyms: v3.18.0, Project home: https://github.com/chatopera/Synonyms/
+
+ Project Sponsored by Chatopera
+
+  deliver your chatbots with Chatopera Cloud Services --> https://bot.chatopera.com
+
+>> Synonyms load wordseg dict [C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\data\vocab.txt] ... 
+Building prefix dict from C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\data\vocab.txt ...
+Loading model from cache C:\Users\zhiao\AppData\Local\Temp\jieba.u7a45385803651aef7367bd86fdc13df6.cache
+Loading model cost 1.395 seconds.
+Prefix dict has been built successfully.
+>> Synonyms on loading stopwords [C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\data\stopwords.txt] ...
+>> Synonyms on loading vectors [C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\data\words.vector.gz] ...
+[['印花', ['imprimé']], ['棉质', ['en', 'coton']], ['毯子', ['Couverture']]]
+[['填充', []], ['棉质', []], ['平纹', []], ['针织', ['en', 'jersey', 'de', 'coton', 'rembourré']], ['毯子', ['Couverture']]]
+[['印花', ['imprimé']], ['棉质', ['en', 'coton']], ['渔夫帽', ['Bob']]]
+[['印花', []], ['天鹅绒', ['en', 'velours', 'imprimé']], ['发圈', ['Chouchou']]]
+[['羊毛', ['de', 'laine']], ['针织', ['en', 'maille']], ['围巾', ['Écharpe']]]
+[['混纺', ['mélangée']], ['嵌花', []], ['羊毛', ['en', 'laine']], ['Icon', []], ['条纹', []], ['围巾', ['Écharpe']]]
+[['羊毛', ['de', 'laine']], ['针织', ['en', 'maille']], ['围巾', ['Écharpe']]]
+[['流苏', ['&amp;', 'franges']], ['格纹', []], ['嵌花', ['intarsia', 'à', 'carreaux']], ['羊绒', ['en', 'cachemire']], ['围巾', ['Écharpe']]]
+[['格纹', ['à', 'carreaux']], ['尼龙', ['en', 'nylon']], ['双肩包', ['Sac', 'à', 'dos']]]
+[['格纹', []], ['印花', []], ['棉质', ['de', 'coton', 'à', 'carreaux']], ['帆布', ['en', 'toile']], ['双肩包', ['Sac', 'à', 'dos']]]
+[['贴片', []], ['印花', ['avec', 'patch']], ['人造皮', []], ['草', ['en', 'fausse', 'fourrure']], ['双肩包', ['Sac', 'à', 'dos']]]
+[['条纹', ['à', 'rayures']], ['棉质', ['en', 'coton']], ['帽子', ['Bonnet']]]
+[['嵌花', ['intarsia']], ['羊毛', []], ['混纺', ['en', 'laine', 'mélangée']], ['Icon', []], ['条纹', []], ['便帽', ['Bonnet']]]
+[['印花', ['imprimé']], ['有机棉', ['en', 'coton', 'biologique']], ['便帽', ['Bonnet']]]
+[['贴片', ['avec', 'patch']], ['混棉', ['en', 'coton', 'mélangé']], ['便帽', ['Bonnet']]]
+[['刺绣', ['à', '', 'brodé']], ['棉质', ['en', 'coton']], ['棒球帽', ['Casquette']]]
+[['印花', ['imprimé']], ['棉质', ['en', 'coton']], ['发夹', ['Serre-tête']]]
+[['心形', []], ['顶部', ['avec', 'log']], ['Logo', []], ['格纹', ['à', 'carreaux']], ['编织', ['tressé']], ['手提包', ['Sac', 'à', 'main']]]
+[['混纺', ['mélangée']], ['真丝', ['en', 'soie']], ['单肩包', ['porté', 'épaule']], ['心形', ['Sac']]]
+[['格纹', []], ['仿皮', ['en', 'simili-cuir', 'à', 'carreaux']], ['单肩包', ['porté', 'épaule']], ['Logo', ['Sac']]]
+[['羊毛', []], ['针织', ['en', 'maille']], ['便帽', ['Bonnet']]]
+[['印花', []], ['条纹', ['à', 'rayures']], ['手拿', []], ['包', ['Pochette']]]
+[['贴片', ['à', 'patch']], ['棉质', ['en', 'coton']], ['渔夫帽', ['Bob']]]
+[['草编', []], ['托特', ['cabas', 'en', 'paille']], ['包', ['Sac']]]
+[['小熊', ['à']], ['双肩包', ['Sac', 'à', 'dos']]]
+[['仿皮', ['en', 'simili-cuir']], ['单肩包', ['Sac', 'porté', 'épaule']]]
+[['再生', ['recyclé']], ['混合', ['mélangé']], ['聚乙烯', ['en', 'polyéthylène']], ['太阳镜', ['Lunettes', 'de', 'soleil']]]
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+[['羊绒', []], ['羊毛', ['laine']], ['amp', ['en', 'cachemire', 'et']], ['&', []], [';', []], ['棒球帽', ['Casquette']]]
+[['棉质', ['en', 'coton']], ['便帽', ['Bonnet']]]
+[['logo', []], ['绗缝', []], ['尼龙', []], ['毯子', ['Couvertureennylonmatelassée']]]
+[['装饰', []], ['手拿', ['embelli']], ['科技', []], ['编织', ['tissé']], ['织物', ['technique']], ['Logo', ['en', 'tissu']], ['包', ['Pochette']]]
+[['印花', ['imprimé']], ['棉质', ['en', 'coton']], ['毯子', ['Couverture']]]
+[['聚碳酸酯', ['en', 'polycarbonate']], ['猫眼', []], ['太阳镜', ['Lunettes', 'de', 'soleil']]]
+[['印花', ['imprimé']], ['棉质', ['en', 'coton']], ['发夹', ['Serre-tête']]]
+[['亮粉', ['à', 'paillettes']], ['猫眼', []], ['太阳镜', ['Lunettes', 'de', 'soleil']]]
+[['印花', ['Iiprimé']], ['再生', ['recyclé']], ['尼龙', ['banane', 'en', 'nylon']], ['腰包', ['Sac']]]
+[['印花', []], ['仿皮', ['en', 'simili-cuir', 'imprimé']], ['手提包', ['Sac', 'à', 'main']]]
+[['珠饰', ['en', 'perles']], ['发夹', ['Serre-tête']]]
+[['巴洛克', []], ['印花', ['Baroque']], ['棉质', ['en', 'coton', 'imprimé']], ['毛巾', ['Serviette']]]
+[['聚碳酸酯', ['en', 'polycarbonate']], ['太阳镜', ['de', 'soleil']], ['Fish', ['Lunettes']]]
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+[['提花', ['jacquard']], ['棉质', []], ['发', ['en', 'coton']], ['带', ['Bandeau']]]
+[['心形', ['en', 'forme', 'de', 'cœur']], ['太阳镜', ['Lunettes', 'de', 'soleil']]]
+[['科技', ['technique']], ['织物', ['en', 'tissu']], ['托特', ['bag']], ['包', ['Tote']]]
+[['印花', []], ['布', ['interlock', 'imprimé']], ['棉质', ['en', 'coton']], ['双面', []], ['毯子', ['Couverture']]]
+[['G', ['GG']], ['混纺', ['mélangé']], ['亚麻', ['à', 'dos', 'en', 'lin']], ['互扣', []], ['式', []], ['双肩包', ['Sac']]]
+[['印花', ['imprimé']], ['混棉', []], ['包', ['en', 'coton', 'mélangé']], ['托特', ['Tote', 'bag']]]
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+[['棉质', []], ['平纹', []], ['针织', ['coton']], ['发', ['en', 'jersey', 'de']], ['带', ['Bandeau']]]
+[['草帽', ['Chapeau']]]
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+[['印花', []], ['棉', ['à', 'imprimé']], ['真丝', ['et', 'coton']], ['周身', []], ['amp', ['en', 'soie']], ['&', []], [';', []], ['围巾', ['Foulard']]]
+[['心形', []], ['发夹', ['avec', 'cœurs']], ['薄纱', ['en', 'satin']], ['绸缎', ['Serre-tête']]]
+[['羊绒', ['en', 'cachemire']], ['毯子', ['Couverture']]]
+[['巴洛克', []], ['印花', ['imprimé', 'Baroque']], ['混纺', ['mélangé']], ['莫代尔', ['en', 'modal']], ['围巾', ['Foulard']]]
+[['棉质', []], ['华达呢', ['en', 'gabardine', 'de', 'coton']], ['棒球帽', ['Casquette']]]
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+[['棉质', []], ['平纹', []], ['针织', ['coton']], ['发', ['en', 'jersey', 'de']], ['带', ['Bandeau']]]
+[['条纹', []], ['真丝', ['en', 'soie', 'à', 'rayures']], ['发圈', ['Chouchou']]]
+[['雏菊', ['marguerite']], ['亮粉', ['pailletée']], ['镜框', ['à', 'monture']], ['太阳镜', ['Lunettes', 'de', 'soleil']]]
+[['印花', []], ['仿皮', ['banane', 'en', 'simili-cuir', 'imprimé']], ['腰包', ['Sac']]]
+[['印花', ['IMPRIMÉ']], ['尼龙', []], ['渔夫帽', ['BOB', 'EN', 'NYLON']]]
+[['科技', ['technique']], ['织物', []], ['尼龙', ['en', 'nylon']], ['滑雪', ['de', 'ski']], ['手套', ['Gants']]]
+[['棉质', ['en', 'coton']], ['单肩包', ['porté', 'épaule']], ['周身', ['Sac']]]
+[['棉质', []], ['华达呢', ['en', 'gabardine', 'de', 'coton']], ['棒球帽', ['Casquette']]]
+[['美杜莎', ['Medusa']], ['钥匙链', ['Porte-clés']]]
+[['Logo', []], ['条纹', []], ['科技', []], ['织物', []], ['编织', ['à', 'rayures']], ['手拿', ['en', 'tissu', 'technique', 'tissé']], ['包', ['Pochette']]]
+[['绗缝', ['matelassé']], ['棉质', ['de', 'coton']], ['斜纹', ['en', 'sergé']], ['睡袋', ['Sac', 'de', 'couchage']]]
+[['格纹', ['à', 'carreaux']], ['尼龙', ['en', 'nylon']], ['妈咪', ['à', 'langer']], ['包', ['Sac']]]
+C:\Users\许志奥\AppData\Local\Programs\Python\Python39\lib\site-packages\synonyms\utils.py:246: RuntimeWarning: invalid value encountered in true_divide
+  cosine = lambda a, b: dot(a, b)/(norm(a)*norm(b))
+[['羊绒', []], ['羊毛', ['laine']], ['amp', ['en', 'cachemire', 'et']], ['&', []], [';', []], ['棒球帽', ['Casquette']]]
+[['美杜莎', ['Medusa']], ['钥匙链', ['Porte-clés']]]
+[['G', ['à', 'motif', 'GG']], ['棉质', ['en', 'coton']], ['互扣', []], ['式', []], ['毯子', ['Couverture']]]
+
+Process finished with exit code -1

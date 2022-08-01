@@ -1,0 +1,2532 @@
+[
+    {
+        "frenquence": 1,
+        "wordCn": "-美人鱼遮阳帽",
+        "wordFr": "-bob mermaid"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "水瓶",
+        "wordFr": "-bouteille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "剪裁款腰带",
+        "wordFr": "-ceinture à découpes"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "牛仔帽",
+        "wordFr": "-chapeau de cowboy"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "勾针帽",
+        "wordFr": "-chapeau en crochet"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "仙人掌饰件",
+        "wordFr": "-charm cactus"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "渐变饰件",
+        "wordFr": "-charm dégradé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "棕榈沙滩巾",
+        "wordFr": "-serviette de plage palm"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "零钱包、卡夹",
+        "wordFr": "- porte-monnaie et porte-cartes"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "扇子",
+        "wordFr": "-éventail"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手提包配饰",
+        "wordFr": "accessoire de sac"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "姓名牌",
+        "wordFr": "badge porte-nom"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "戒指",
+        "wordFr": "bague"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "沙丘戒指",
+        "wordFr": "bague dune"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "我的最爱戒指",
+        "wordFr": "bague ma preference"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "彩虹戒指",
+        "wordFr": "bague rainbow"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "滑雪面罩",
+        "wordFr": "balaclava"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "头巾",
+        "wordFr": "bandana"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "格纹轻薄嘎巴甸班丹纳围巾",
+        "wordFr": "bandana en gabardine tropicale check"
+    },
+    {
+        "frenquence": 15,
+        "wordCn": "束带",
+        "wordFr": "bandeau"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "发箍",
+        "wordFr": "bandeau"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "人造皮草头巾",
+        "wordFr": "bandeau imitation fourrure"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "发夹",
+        "wordFr": "barette à cheveux"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "发夹",
+        "wordFr": "barrette"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "标识印花牛皮革、铁合金和人造革发夹",
+        "wordFr": "barrette à cheveux celine toile triomphe cuir de veau, acier et toile"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "提花品牌标识软帽",
+        "wordFr": "beanie à logo jacquard"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "贝雷帽",
+        "wordFr": "beret"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "包饰",
+        "wordFr": "bijou de sac"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "包饰与钥匙扣",
+        "wordFr": "bijou de sac et porte-clés"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "金属牌包饰",
+        "wordFr": "bijou de sac plaque"
+    },
+    {
+        "frenquence": 16,
+        "wordCn": "遮阳帽",
+        "wordFr": "bob"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "渔夫帽",
+        "wordFr": "bob"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "奶牛印花渔夫帽",
+        "wordFr": "bob"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "再生牛仔渔夫帽",
+        "wordFr": "bob en denim regenerated"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "双面渔夫帽",
+        "wordFr": "bob réversible"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "双面窄檐桶帽",
+        "wordFr": "bob réversible à petit bord"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "窄檐桶帽",
+        "wordFr": "bob à petit bord"
+    },
+    {
+        "frenquence": 20,
+        "wordCn": "绒帽",
+        "wordFr": "bonnet"
+    },
+    {
+        "frenquence": 7,
+        "wordCn": "软帽",
+        "wordFr": "bonnet"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "无缝山羊绒钟形帽",
+        "wordFr": "bonnet cachemire seamless"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "大象图案无边便帽",
+        "wordFr": "bonnet de marque elephant"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "羊驼软帽",
+        "wordFr": "bonnet en alpaga"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "反光羊绒软帽",
+        "wordFr": "bonnet en cachemire réfléchissant"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "标识羊毛帽",
+        "wordFr": "bonnet en laine avec logo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "镂空针织软帽",
+        "wordFr": "bonnet en maille pointelle"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "格纹马海毛混纺针织帽",
+        "wordFr": "bonnet en mohair et soie mélangés check"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "贴片软帽",
+        "wordFr": "bonnet patch"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "纯山羊绒软帽",
+        "wordFr": "bonnet pur cachemire"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "品牌标识绒帽",
+        "wordFr": "bonnet à logo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "宝石耳环",
+        "wordFr": "boucle d'oreilles pierres precieuses"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "귀걸이",
+        "wordFr": "boucles d'oreilles"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "耳环",
+        "wordFr": "boucles d'oreilles"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "手链",
+        "wordFr": "bracelet"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "팔찌",
+        "wordFr": "bracelet"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手镯",
+        "wordFr": "bracelet"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "双圈手镯",
+        "wordFr": "bracelet double tour"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "徽标网眼颈带",
+        "wordFr": "cache-col avec logo en grille"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "大象图案颈带",
+        "wordFr": "cache-col de marque elephant"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "羊绒",
+        "wordFr": "cachemire"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "方巾",
+        "wordFr": "carré"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "方巾",
+        "wordFr": "carré dior oblique"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "方形太阳镜",
+        "wordFr": "carré lunettes de soleil"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "方巾",
+        "wordFr": "carré mizza"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "印花真丝斜纹方巾",
+        "wordFr": "carré twill soie imprimé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "印花方巾",
+        "wordFr": "carré zodiac"
+    },
+    {
+        "frenquence": 33,
+        "wordCn": "棒球帽",
+        "wordFr": "casquette"
+    },
+    {
+        "frenquence": 12,
+        "wordCn": "鸭舌帽",
+        "wordFr": "casquette"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "帽子",
+        "wordFr": "casquette"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "双色棒球帽",
+        "wordFr": "casquette bicolore"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "刺绣棒球帽",
+        "wordFr": "casquette brodée"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "人造羊毛棒球帽",
+        "wordFr": "casquette de baseball en faux shearling"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "仿皮草棒球帽",
+        "wordFr": "casquette de baseball imitation fourrure"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "再生尼龙棒球帽",
+        "wordFr": "casquette en"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "éé光感面料棒球帽",
+        "wordFr": "casquette en vinyle"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "大号刺绣棒球帽",
+        "wordFr": "casquette large brodé"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "制造棒球帽",
+        "wordFr": "casquette manufacture"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "双面帽子",
+        "wordFr": "casquette réversible"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "标识棒球帽",
+        "wordFr": "casquette à logo"
+    },
+    {
+        "frenquence": 76,
+        "wordCn": "腰带",
+        "wordFr": "ceinture"
+    },
+    {
+        "frenquence": 22,
+        "wordCn": "皮带",
+        "wordFr": "ceinture"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "腰包",
+        "wordFr": "ceinture"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "颠倒字母带扣腰带",
+        "wordFr": "ceinture anagram"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "厘米宽颠倒字母带扣腰带",
+        "wordFr": "ceinture anagram 4cm"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "酒椰效果带搭扣腰带",
+        "wordFr": "ceinture avec boucle effet raphia"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "皮革腰带",
+        "wordFr": "ceinture cuir lisse"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "双面皮革双绕腰带",
+        "wordFr": "ceinture double tour en cuir réversible"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "皮革腰带",
+        "wordFr": "ceinture en cuir"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "真皮腰带",
+        "wordFr": "ceinture en cuir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "双扣皮革腰带鳄鱼",
+        "wordFr": "ceinture en cuir croco à double fermoir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "粒面皮革腰带",
+        "wordFr": "ceinture en cuir de veau grainé"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "光面皮腰带",
+        "wordFr": "ceinture en cuir lisse"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "黑色皮革刺绣腰带",
+        "wordFr": "ceinture en cuir noire avec broderies"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "交织字母图案双面皮革腰带",
+        "wordFr": "ceinture en cuir réversible monogram"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "提花腰带",
+        "wordFr": "ceinture en jacquard"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小牛皮腰带",
+        "wordFr": "ceinture en veau"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "光滑小牛皮腰带",
+        "wordFr": "ceinture en veau lisse"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "植鞣小牛皮腰带",
+        "wordFr": "ceinture en veau végétal"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "酒椰效果弹力腰带",
+        "wordFr": "ceinture en élastique effet raphia"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "腰带（厘米）",
+        "wordFr": "ceinture h. 2 cm"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "腰带（厘米）",
+        "wordFr": "ceinture h. 4 cm"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "腰带（厘米）",
+        "wordFr": "ceinture h. 70"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "大号皮带",
+        "wordFr": "ceinture large"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "大号椭圆扣腰带",
+        "wordFr": "ceinture large en cuir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "酒椰纤维宽腰带",
+        "wordFr": "ceinture large en raphia"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "锁扣腰带",
+        "wordFr": "ceinture lock"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "标识腰带",
+        "wordFr": "ceinture logo"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "毫米双面腰带",
+        "wordFr": "ceinture mm réversible"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "中号光滑牛皮革腰带",
+        "wordFr": "ceinture moyen modèle veau lisse"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "双面腰带",
+        "wordFr": "ceinture réversible"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "字母双面腰带",
+        "wordFr": "ceinture réversible"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "正反两面腰带",
+        "wordFr": "ceinture réversible"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "皮革双面腰带",
+        "wordFr": "ceinture réversible en cuir"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "弹力腰带",
+        "wordFr": "ceinture stretch"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "编织款腰带",
+        "wordFr": "ceinture tressée"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "编织腰带",
+        "wordFr": "ceinture tressée"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "三角搭扣腰带",
+        "wordFr": "ceinture triangle"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "双面腰带（厘米）",
+        "wordFr": "ceinture vlogo réversible h. 7 cm"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "椭圆扣腰带",
+        "wordFr": "ceinture à boucle ovale"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "标识腰带",
+        "wordFr": "ceinture à logo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "刺绣黄铜链",
+        "wordFr": "chaine brodée en laiton"
+    },
+    {
+        "frenquence": 13,
+        "wordCn": "女帽",
+        "wordFr": "chapeau"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "帽子",
+        "wordFr": "chapeau"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "巴拿马草帽",
+        "wordFr": "chapeau"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "羊毛贝雷帽",
+        "wordFr": "chapeau basque en laine"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "格子渔夫帽",
+        "wordFr": "chapeau bob en vichy"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "宽檐帽",
+        "wordFr": "chapeau capeline"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "不对称帽檐钟形帽",
+        "wordFr": "chapeau cloche asymétrique"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "丝绒钟形帽",
+        "wordFr": "chapeau cloche en velours"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "钩针帽",
+        "wordFr": "chapeau crchet"
+    },
+    {
+        "frenquence": 10,
+        "wordCn": "毡帽",
+        "wordFr": "chapeau en feutre"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "磨毛毡帽",
+        "wordFr": "chapeau en feutre brossé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "新艺术风格中等宽度帽檐毡帽",
+        "wordFr": "chapeau en feutre à bord moyen art nouveau"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "棒球帽",
+        "wordFr": "chapeau en maille"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "优质女帽",
+        "wordFr": "chapeau folar de qualité supérieure"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "菱格纹帽",
+        "wordFr": "chapeau matelassé"
+    },
+    {
+        "frenquence": 19,
+        "wordCn": "巴拿马帽",
+        "wordFr": "chapeau panama"
+    },
+    {
+        "frenquence": 12,
+        "wordCn": "巴拿马草帽",
+        "wordFr": "chapeau panama"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "半钩针巴拿马帽",
+        "wordFr": "chapeau panama semicrochet"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "条纹帽",
+        "wordFr": "chapeau stripe de"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "编织酒椰帽",
+        "wordFr": "chapeau traissé raphia"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "宽檐帽",
+        "wordFr": "chapeau à long bord"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "窄檐帽",
+        "wordFr": "chapeau à petit bord"
+    },
+    {
+        "frenquence": 8,
+        "wordCn": "袜子",
+        "wordFr": "chaussettes"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "棉袜",
+        "wordFr": "chaussettes"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "色块袜",
+        "wordFr": "chaussettes color block"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "条纹短袜",
+        "wordFr": "chaussettes courtes rayées"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "针织袜",
+        "wordFr": "chaussettes en maille"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "网眼长袜",
+        "wordFr": "chaussettes hautes avec grille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "徽标袜子",
+        "wordFr": "chaussettes à logo"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "披肩",
+        "wordFr": "châle"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "披肩",
+        "wordFr": "châle denim"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "印花披肩",
+        "wordFr": "châle oblique"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "印花披肩",
+        "wordFr": "châle oblique denim"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "钥匙扣",
+        "wordFr": "cloche-clé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "传奇“夫人”系列套装",
+        "wordFr": "coffret \"my lady\" legende black white 90"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "天堂鸟“夫人”系列套装",
+        "wordFr": "coffret \"my lady\" oiseaux du paradis"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "午夜歌剧院“夫人”系列套装",
+        "wordFr": "coffret \"my lady\" théâtre de nuit 90"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "舞曲粉红“母女”系列套装",
+        "wordFr": "coffret \"mère fille\" la danse pink"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "午夜歌剧院“母女”系列套装",
+        "wordFr": "coffret \"mère fille\" théâtre de nuit"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小鸟图案束带件套装",
+        "wordFr": "coffret 3 fétiches à nouer oiseaux"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "天堂图案束带件套装",
+        "wordFr": "coffret 3 fétiches à nouer paradisiaque"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "零钱包",
+        "wordFr": "coin case"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "衣领",
+        "wordFr": "col"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "목걸이",
+        "wordFr": "collier"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "项链",
+        "wordFr": "collier"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "心灵捕手项链",
+        "wordFr": "collier attrape coeur"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "链项链",
+        "wordFr": "collier chain"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "초커",
+        "wordFr": "collier choker"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "()短项链",
+        "wordFr": "collier choker"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "宝石项链",
+        "wordFr": "collier pierres precieuses"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "链带长款皮夹",
+        "wordFr": "continental with chain"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手机套",
+        "wordFr": "coque case"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "智能手机壳",
+        "wordFr": "coque smartphone"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "毛毯",
+        "wordFr": "couverture"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "花卉图案钥匙扣",
+        "wordFr": "couvre-clef en cuir à motifs fleuris"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "双面领带",
+        "wordFr": "cravate twin double bee"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "钩针手套",
+        "wordFr": "crochet glove"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "丝巾",
+        "wordFr": "dior oblique"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "羊驼衬里",
+        "wordFr": "doublure alpaga"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "羊驼呢内衬手套",
+        "wordFr": "doublure en alpaga"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "羊驼内衬",
+        "wordFr": "doublure en alpaga"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "兔毛衬里",
+        "wordFr": "doublure en lapin"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "丝绸内衬手套",
+        "wordFr": "doublure en soie"
+    },
+    {
+        "frenquence": 49,
+        "wordCn": "围巾",
+        "wordFr": "echarpe"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "骷髅围巾",
+        "wordFr": "echarpe"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "格纹围巾",
+        "wordFr": "echarpe check"
+    },
+    {
+        "frenquence": 10,
+        "wordCn": "山羊绒围巾",
+        "wordFr": "echarpe en cachemire"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "山羊绒、真丝围巾",
+        "wordFr": "echarpe en cachemire et soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "超大格纹山羊绒围巾",
+        "wordFr": "echarpe en cachemire giant check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "骆驼毛围巾",
+        "wordFr": "echarpe en laine de chameau"
+    },
+    {
+        "frenquence": 8,
+        "wordCn": "混纺超大尺寸羊毛围巾",
+        "wordFr": "echarpe en laine mélangée oversize"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "超大尺寸羊毛围巾",
+        "wordFr": "echarpe en laine oversize"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "围巾休闲",
+        "wordFr": "echarpe leisure"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "字母花押羊毛围巾",
+        "wordFr": "echarpe monogramme en laine"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "超大尺寸格纹围巾",
+        "wordFr": "echarpe oversize check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "马海毛条纹围巾",
+        "wordFr": "echarpe rayée en mohair"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "签名款围巾",
+        "wordFr": "echarpe signature"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "军装印花围巾",
+        "wordFr": "echarpe à imprimé militaire"
+    },
+    {
+        "frenquence": 9,
+        "wordCn": "头绳",
+        "wordFr": "elastique à cheveux"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "羊绒皮手套",
+        "wordFr": "en peau lainée"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "翻毛皮手套",
+        "wordFr": "en peau lainée"
+    },
+    {
+        "frenquence": 7,
+        "wordCn": "名片夹",
+        "wordFr": "etui pour cartes"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "手机壳",
+        "wordFr": "etui pour téléphone"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "棒球帽",
+        "wordFr": "fedora en raphia"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "发夹",
+        "wordFr": "fermoir"
+    },
+    {
+        "frenquence": 10,
+        "wordCn": "方巾",
+        "wordFr": "foulard"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "围巾",
+        "wordFr": "foulard"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "大象图案围巾",
+        "wordFr": "foulard de marque elephant"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "签名款花押字母丝绸围巾",
+        "wordFr": "foulard en soie monogramme signature"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "印花围巾",
+        "wordFr": "foulard imprimé"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "花押字母丝绸方巾",
+        "wordFr": "foulard monogram en soie"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "时装秀围巾",
+        "wordFr": "foulard show"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "编织棉质沙滩巾",
+        "wordFr": "fouta de plage coton tissé"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "系带款吉祥饰带",
+        "wordFr": "fétiche à nouer"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "系带吉祥饰带",
+        "wordFr": "fétiche à nouer"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "绿松石白鹦束带",
+        "wordFr": "fétiche à nouer cacatoès turquoise"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "经典蓝束带",
+        "wordFr": "fétiche à nouer classic blue"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "暮光粉系带款吉祥饰带",
+        "wordFr": "fétiche à nouer crepuscule pink"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "蓝、木槿花系带款吉祥饰带",
+        "wordFr": "fétiche à nouer hibiscus blue & green"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "霓虹木槿系带款吉祥饰带",
+        "wordFr": "fétiche à nouer hibiscus néon"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "红色木槿束带",
+        "wordFr": "fétiche à nouer hibiscus red"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "软蜡泻湖系袋款吉祥饰带",
+        "wordFr": "fétiche à nouer soft wax lagon"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手套",
+        "wordFr": "gants"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手套",
+        "wordFr": "gants bb"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "真丝内衬手套",
+        "wordFr": "gants doublure soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "真丝内衬",
+        "wordFr": "gants doublure soie"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "羊绒手套",
+        "wordFr": "gants en cachemire"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "带标识羊毛手套",
+        "wordFr": "gants en laines avec logo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "丝绸内衬触屏手套",
+        "wordFr": "gants tactile doublure soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "经典条纹大方巾",
+        "wordFr": "grand carré avec rayures iconiques"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "大号皮革钱包",
+        "wordFr": "grand portefeuille en cuir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "大号压花光滑牛皮革拉链钱包",
+        "wordFr": "grand portefeuille veau naturel embossé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "大号压花小牛皮拉链钱包",
+        "wordFr": "grand portefeuille zippé en veau naturel embossé"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "大号粒面牛皮革翻盖钱包",
+        "wordFr": "grand portefeuille à rabat veau grainé"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "大号手拿包",
+        "wordFr": "grande pochette plate"
+    },
+    {
+        "frenquence": 10,
+        "wordCn": "大围巾",
+        "wordFr": "grande écharpe"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "不规则太阳镜",
+        "wordFr": "irregular lunettes de soleil"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "杰克太阳镜",
+        "wordFr": "jack lunettes de soleil"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手镯",
+        "wordFr": "jonc"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "套装靠枕和眼罩",
+        "wordFr": "kit coussin et masque"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "..棒球帽",
+        "wordFr": "la casquette"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "\"\"棒球帽",
+        "wordFr": "la casquette"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "\"\"..棒球帽",
+        "wordFr": "la casquette"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "方形腰带",
+        "wordFr": "la ceinture carrée"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "舞曲手帕",
+        "wordFr": "la danse"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "羊毛、真丝",
+        "wordFr": "laine soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "éé羊毛、真丝",
+        "wordFr": "laine soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "遮阳帽",
+        "wordFr": "le bob"
+    },
+    {
+        "frenquence": 8,
+        "wordCn": "光面毡帽",
+        "wordFr": "le chapeau en feutre doux"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "钥匙环",
+        "wordFr": "le porte cle"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "老虎",
+        "wordFr": "le tigre"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "真皮腰带",
+        "wordFr": "leather"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "细镜腿眼镜",
+        "wordFr": "lunettes branches fines"
+    },
+    {
+        "frenquence": 197,
+        "wordCn": "太阳眼镜",
+        "wordFr": "lunettes de soleil"
+    },
+    {
+        "frenquence": 191,
+        "wordCn": "太阳镜",
+        "wordFr": "lunettes de soleil"
+    },
+    {
+        "frenquence": 17,
+        "wordCn": "墨镜",
+        "wordFr": "lunettes de soleil"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "太阳镜",
+        "wordFr": "lunettes de soleil  mitre"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯太阳眼镜",
+        "wordFr": "lunettes de soleil 06"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "飞行员太阳眼镜",
+        "wordFr": "lunettes de soleil aviateur"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯黑色边框太阳眼镜",
+        "wordFr": "lunettes de soleil black frame 04 acétate"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯镜框太阳眼镜配偏光镜片",
+        "wordFr": "lunettes de soleil black frame 04 acétate avec verres polarisés"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "黑框醋酸纤维和金属太阳眼镜",
+        "wordFr": "lunettes de soleil black frame en acétate et métal"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "太阳眼镜",
+        "wordFr": "lunettes de soleil bolt"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯正方形太阳眼镜配偏光镜片",
+        "wordFr": "lunettes de soleil carré s130 acétate"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯正方形太阳眼镜",
+        "wordFr": "lunettes de soleil carré s130 acétate"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "太阳镜",
+        "wordFr": "lunettes de soleil classic"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸纤维太阳眼镜",
+        "wordFr": "lunettes de soleil en acétate"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯太阳眼镜",
+        "wordFr": "lunettes de soleil graphic s219 acétate"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "六边形太阳镜",
+        "wordFr": "lunettes de soleil hexagonales"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "太阳眼镜",
+        "wordFr": "lunettes de soleil masque"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "金属框太阳镜",
+        "wordFr": "lunettes de soleil metal frame"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "金属镜框太阳眼镜配偏光镜片",
+        "wordFr": "lunettes de soleil metal frame 01 verres polarisés"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "金属镜框太阳眼镜",
+        "wordFr": "lunettes de soleil metal frame 06"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "金属镜框太阳眼镜配无机玻璃镜片",
+        "wordFr": "lunettes de soleil metal frame 06 verres minéraux"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "金属框太阳镜",
+        "wordFr": "lunettes de soleil metal frame 09"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "金属镜框太阳眼镜",
+        "wordFr": "lunettes de soleil monture métallique"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "金属镜架太阳镜",
+        "wordFr": "lunettes de soleil monture métallique 00"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "醋酸酯猫眼形太阳眼镜配无机玻璃镜片",
+        "wordFr": "lunettes de soleil oeil de chat s003 acétate avec verres minéraux"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯猫眼形太阳眼镜配偏光镜片",
+        "wordFr": "lunettes de soleil oeil de chat s004  acétate"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯猫眼形太阳眼镜",
+        "wordFr": "lunettes de soleil oeil de chat s004  acétate"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "醋酸酯超大号太阳眼镜",
+        "wordFr": "lunettes de soleil oversized s002 acétate"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "醋酸酯超大号太阳眼镜配偏光镜片",
+        "wordFr": "lunettes de soleil oversized s002 acétate avec verres polarisés"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "醋酸酯蝴蝶形太阳眼镜",
+        "wordFr": "lunettes de soleil papillon s005 acétate"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "圆形太阳镜",
+        "wordFr": "lunettes de soleil rondes"
+    },
+    {
+        "frenquence": 7,
+        "wordCn": "圆形太阳眼镜",
+        "wordFr": "lunettes de soleil round"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "太阳眼镜",
+        "wordFr": "lunettes de soleil slant"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "太阳镜",
+        "wordFr": "lunettes de soleil underline"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "太阳镜",
+        "wordFr": "lunettes de soleil wing"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "细镜腿太阳镜",
+        "wordFr": "lunettes de soleil à branches fines"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "铰链太阳镜",
+        "wordFr": "lunettes de soleil à charnière"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "醋酸纤维太阳眼镜",
+        "wordFr": "lunettes soleil en acétate"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "睡眠眼罩与收纳袋",
+        "wordFr": "masque de nuit et pochette"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "滑雪面罩",
+        "wordFr": "masque de ski"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "人造毛皮面罩",
+        "wordFr": "masque imitation fourrure"
+    },
+    {
+        "frenquence": 19,
+        "wordCn": "迷你钱包",
+        "wordFr": "mini portefeuille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "迷你手袋",
+        "wordFr": "mini sac"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "拉链迷你钱包",
+        "wordFr": "mini zippy"
+    },
+    {
+        "frenquence": 8,
+        "wordCn": "短款迷你钱包",
+        "wordFr": "mini-portefeuille compact"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "迷你三折钱包",
+        "wordFr": "mini-portefeuille pliant"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "折叠式迷你钱包",
+        "wordFr": "mini-portefeuille pliant"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "多用钱包",
+        "wordFr": "multi-portefeuille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "拉链包口多功能钱包",
+        "wordFr": "multi-portefeuille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "中号置物盘",
+        "wordFr": "organiseur de bureau mm"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "小号置物盘",
+        "wordFr": "organiseur de bureau pm"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "特色橙色卷边",
+        "wordFr": "original roulotté orange"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "椭圆形太阳镜",
+        "wordFr": "oval lunettes de soleil"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "沙滩巾",
+        "wordFr": "paréo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "护照保护套",
+        "wordFr": "passport cover"
+    },
+    {
+        "frenquence": 11,
+        "wordCn": "卡片夹",
+        "wordFr": "pc tu"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小号亮片帆布钱包",
+        "wordFr": "petit porte monnaie toile et paillettes"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "小号全拉链卡包",
+        "wordFr": "petit porte-cartes avec fermeture à glissière sur le pourtour"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "小号钱包",
+        "wordFr": "petit portefeuille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小号皮夹",
+        "wordFr": "petit portefeuille"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "小号皮革钱包",
+        "wordFr": "petit portefeuille en cuir"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "凯旋小号帆布和小羊皮钱包",
+        "wordFr": "petit portefeuille en toile triomphe et agneau"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "小号鳄鱼纹压花小牛皮三折钱包",
+        "wordFr": "petit portefeuille en veau façon crocodile"
+    },
+    {
+        "frenquence": 9,
+        "wordCn": "粒面小牛皮小号钱包",
+        "wordFr": "petit portefeuille en veau grainé"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "帆布、羊羔皮手袋",
+        "wordFr": "petit portefeuille toile et agneau"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "凯旋帆布的小凯旋钱包",
+        "wordFr": "petit portefeuille triomphe en toile triomphe"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "小号双色粒面牛皮革饰带钱包",
+        "wordFr": "petit portefeuille veau grainé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "双色粒面牛皮革小号饰带钱包",
+        "wordFr": "petit portefeuille veau grainé"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "小号竖款钱包",
+        "wordFr": "petit portefeuille vertical"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "小号翻盖钱包",
+        "wordFr": "petit portefeuille à rabat"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手拿包",
+        "wordFr": "petit sac à bandoulière en veau"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小号化妆包",
+        "wordFr": "petite pochette de toilette"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "帆布、羊羔皮小号手拿包",
+        "wordFr": "petite pochette en toile et agneau"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小号扁平手拿包",
+        "wordFr": "petite pochette plate"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "飞行员太阳镜",
+        "wordFr": "pilote lunettes de soleil"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "冲浪板",
+        "wordFr": "planche de surf"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "化妆包",
+        "wordFr": "pochette de maquillage"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手机包",
+        "wordFr": "pochette de téléphone"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "酒椰纤维手机袋",
+        "wordFr": "pochette de téléphone en raphia"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "酒椰纤维金银纱手机袋",
+        "wordFr": "pochette de téléphone en raphia et lurex"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "皮革挂包",
+        "wordFr": "pochette en cuir"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "皮革手拿袋",
+        "wordFr": "pochette en cuir"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "缎面小牛皮链带手拿包",
+        "wordFr": "pochette maillon triomphe en veau satiné"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "大号扁平手拿包",
+        "wordFr": "pochette plate grande"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "钥匙夹手拿包",
+        "wordFr": "pochette pour clés"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "马鞍手拿包",
+        "wordFr": "pochette saddle en veau"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "拉链手包配可拆卸卡片夹",
+        "wordFr": "pochette zippée avec porte-cartes amovible"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "标识手袋",
+        "wordFr": "pochette à logo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "鹦鹉鱼",
+        "wordFr": "poissons perroquets"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "斗篷",
+        "wordFr": "poncho"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "复古织物格纹折叠卡包",
+        "wordFr": "porte carte pliant"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "牛皮翻盖卡包",
+        "wordFr": "porte carte à rabat taurillon"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "卡包",
+        "wordFr": "porte cartes"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "半月形皮革卡包",
+        "wordFr": "porte cartes demi-lune en cuir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "卡夹和零钱包",
+        "wordFr": "porte cartes et monnaie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "提花帆布马鞍卡夹",
+        "wordFr": "porte cartes à goussets saddle en toile jacquard"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "包饰与钥匙扣",
+        "wordFr": "porte clés"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "瓶套",
+        "wordFr": "porte-bouteille"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "瓶夹",
+        "wordFr": "porte-bouteille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "水壶",
+        "wordFr": "porte-bouteille"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "证件卡包",
+        "wordFr": "porte-carte d'identité"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "字母花押皮革卡包",
+        "wordFr": "porte-carte en cuir débossé monogramme"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "信封卡包",
+        "wordFr": "porte-carte enveloppe"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "字母花押皮革链带卡包",
+        "wordFr": "porte-carte à chaîne en cuir débossé monogramme"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "带徽标卡包",
+        "wordFr": "porte-carte à logo"
+    },
+    {
+        "frenquence": 60,
+        "wordCn": "卡包",
+        "wordFr": "porte-cartes"
+    },
+    {
+        "frenquence": 10,
+        "wordCn": "卡片套",
+        "wordFr": "porte-cartes"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "卡夹",
+        "wordFr": "porte-cartes"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "小牛皮零钱袋/卡夹",
+        "wordFr": "porte-cartes"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "卡片夹",
+        "wordFr": "porte-cartes"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "粒面牛皮革风琴褶卡包",
+        "wordFr": "porte-cartes accordéon en veau grainé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "链带卡包",
+        "wordFr": "porte-cartes avec chaîne"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "双色卡包",
+        "wordFr": "porte-cartes bicolor"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "粒面小牛皮纤巧卡夹",
+        "wordFr": "porte-cartes compact"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "光滑牛皮革拉链卡包",
+        "wordFr": "porte-cartes compact veau lisse"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "名片卡片套",
+        "wordFr": "porte-cartes de visite"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "上弦月卡包",
+        "wordFr": "porte-cartes demi-lune"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "双折式卡包",
+        "wordFr": "porte-cartes double"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "皮革卡片夹",
+        "wordFr": "porte-cartes en cuir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "皮革贴片提花卡夹",
+        "wordFr": "porte-cartes en jacquard empiècements en cuir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "信封卡包",
+        "wordFr": "porte-cartes enveloppe"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "卡夹和零钱包",
+        "wordFr": "porte-cartes et monnaie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "帆布印花卡夹",
+        "wordFr": "porte-cartes toile imprimé"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "拉链卡包",
+        "wordFr": "porte-cartes zippé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "复古拉链卡包",
+        "wordFr": "porte-cartes zippé vintage check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "带徽标卡包",
+        "wordFr": "porte-cartes à logo"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "钥匙环",
+        "wordFr": "porte-clés"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "格纹钥匙环",
+        "wordFr": "porte-clés check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "风衣款钥匙环",
+        "wordFr": "porte-clés trench"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "零钱包",
+        "wordFr": "porte-monnaie"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "钱包",
+        "wordFr": "porte-monnaie"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "半月形零钱包",
+        "wordFr": "porte-monnaie demi-lune"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "格纹棉质埃伦匹亚零钱夹",
+        "wordFr": "porte-monnaie en coton check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "浅色字母花押镜面皮革零钱包",
+        "wordFr": "porte-monnaie en cuir miroir débossé monogramme pâle"
+    },
+    {
+        "frenquence": 7,
+        "wordCn": "纳帕皮零钱袋",
+        "wordFr": "porte-monnaie en nappa"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "信封护照夹",
+        "wordFr": "porte-passeport enveloppe"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "亮泽牛皮革竖款手机包",
+        "wordFr": "porte-téléphone veau satiné"
+    },
+    {
+        "frenquence": 46,
+        "wordCn": "钱包",
+        "wordFr": "portefeuille"
+    },
+    {
+        "frenquence": 14,
+        "wordCn": "皮夹",
+        "wordFr": "portefeuille"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "钱夹",
+        "wordFr": "portefeuille"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "拉链钱夹",
+        "wordFr": "portefeuille"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "双扣钱包",
+        "wordFr": "portefeuille 2 compartiments"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "周身拉链款钱包",
+        "wordFr": "portefeuille au pourtour zippé"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "宽链钱包",
+        "wordFr": "portefeuille avec chaine large"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "链带钱包",
+        "wordFr": "portefeuille avec chaîne"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "钱包",
+        "wordFr": "portefeuille baguette"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "卡位拉链钱包",
+        "wordFr": "portefeuille cartes zip"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "链带钱包",
+        "wordFr": "portefeuille chaîne"
+    },
+    {
+        "frenquence": 5,
+        "wordCn": "短款钱包",
+        "wordFr": "portefeuille compact"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "小号钱包",
+        "wordFr": "portefeuille compact"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "短款钱夹",
+        "wordFr": "portefeuille compact"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小号方形钱包",
+        "wordFr": "portefeuille compact carré"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "粒面牛皮革折叠钱包",
+        "wordFr": "portefeuille compact veau grainé"
+    },
+    {
+        "frenquence": 14,
+        "wordCn": "长款皮夹",
+        "wordFr": "portefeuille continental"
+    },
+    {
+        "frenquence": 7,
+        "wordCn": "链带长款皮夹",
+        "wordFr": "portefeuille continental à chaîne"
+    },
+    {
+        "frenquence": 9,
+        "wordCn": "皮革钱包",
+        "wordFr": "portefeuille en cuir"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "字母花押压印皮革钱包",
+        "wordFr": "portefeuille en cuir débossé monogramme"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "全拉链式皮夹",
+        "wordFr": "portefeuille entièrement zippé"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "中号全拉链式皮夹",
+        "wordFr": "portefeuille entièrement zippé moyen"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "长款钱包",
+        "wordFr": "portefeuille long"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "三折钱包",
+        "wordFr": "portefeuille micro a trois volets"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "中号皮夹",
+        "wordFr": "portefeuille moyen"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "中号帆布钱包",
+        "wordFr": "portefeuille moyen en toile triomphe"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "中号双色粒面牛皮革饰带钱包",
+        "wordFr": "portefeuille moyen veau grainé bicolore"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "小号皮夹",
+        "wordFr": "portefeuille small"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "链带钱包",
+        "wordFr": "portefeuille sur chaîne"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "“拉链包口多功能”钱包",
+        "wordFr": "portefeuille top zip multi"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "拉链钱包",
+        "wordFr": "portefeuille zippé"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "双折拉链钱包",
+        "wordFr": "portefeuille zippé à deux volets"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "三折钱包",
+        "wordFr": "portefeuille à 3 volets"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "链带钱包",
+        "wordFr": "portefeuille à bandoulière"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "链带皮夹",
+        "wordFr": "portefeuille à chaîne"
+    },
+    {
+        "frenquence": 7,
+        "wordCn": "折叠皮夹",
+        "wordFr": "portefeuille à deux volets"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "两折钱包",
+        "wordFr": "portefeuille à deux volets"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "标识钱包",
+        "wordFr": "portefeuille à logo"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "三折钱包",
+        "wordFr": "portefeuille à trois volets"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "卡包",
+        "wordFr": "portes-cartes"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "钥匙环",
+        "wordFr": "portes-clés"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "护照夹",
+        "wordFr": "pp tu"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "长方形太阳镜",
+        "wordFr": "rectangle lunettes de soleil"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "圆形太阳镜",
+        "wordFr": "ronde lunettes de soleil"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "手提包",
+        "wordFr": "sac"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "条纹化妆包",
+        "wordFr": "sac de maquillage à rayures"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "发带",
+        "wordFr": "serre-tête"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "沙滩巾",
+        "wordFr": "serviette de plage"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "标识短款及踝袜",
+        "wordFr": "socquettes courtes avec logo"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "大象图案短款及踝袜",
+        "wordFr": "socquettes courtes de marque elephant"
+    },
+    {
+        "frenquence": 8,
+        "wordCn": "方形太阳镜",
+        "wordFr": "square lunettes de soleil"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "针织连帽衫",
+        "wordFr": "sweat à capuche tricotée"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "触屏手套",
+        "wordFr": "tactile"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "羊驼衬里触屏手套",
+        "wordFr": "tactile doubl. alpaga"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "兔毛带衬里触屏手套",
+        "wordFr": "tactile doubl. fourrure"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "羊驼内衬触屏手套",
+        "wordFr": "tactile doublure alpaga"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "山羊绒内衬触感手套",
+        "wordFr": "tactile doublure cachemire"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "兔毛衬里触屏手套",
+        "wordFr": "tactile doublure en lapin"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "丝绸内衬触屏手套",
+        "wordFr": "tactile doublure en soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "兔毛衬里触屏手套",
+        "wordFr": "tactile doublure lapin"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "真丝衬里触屏手套",
+        "wordFr": "tactile doublure soie"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "丝绸内衬触屏手套",
+        "wordFr": "tactile doublure soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "真丝内衬触屏手套",
+        "wordFr": "tactile doublure soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "羊绒内衬触屏手套",
+        "wordFr": "tactile doublé cachemire"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "丝巾",
+        "wordFr": "toile de jouy flowers"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "丝巾",
+        "wordFr": "toile de jouy sauvage"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "陀螺",
+        "wordFr": "toupie"
+    },
+    {
+        "frenquence": 8,
+        "wordCn": "手拿包",
+        "wordFr": "trousse"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "中号旅行箱",
+        "wordFr": "trousse de voyage taille moyenne"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "亚麻亮片笔袋",
+        "wordFr": "trousse lin et paillettes"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "中号手拿包",
+        "wordFr": "trousse mm"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "帆布、亮片学生笔袋",
+        "wordFr": "trousse écolier toile et paillettes"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "遮阳帽",
+        "wordFr": "visière"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "실크바이저",
+        "wordFr": "visière en soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "遮阳帽",
+        "wordFr": "visière en soie dior oblique"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "链带皮夹",
+        "wordFr": "wallet on chain"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "配小袋的链带皮夹",
+        "wordFr": "wallet on chain avec pochettes"
+    },
+    {
+        "frenquence": 6,
+        "wordCn": "绑带",
+        "wordFr": "wrappy"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "绑带",
+        "wordFr": "wrappy fun fendi"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "宽檐草编帽",
+        "wordFr": "à large bord en paille tissée"
+    },
+    {
+        "frenquence": 15,
+        "wordCn": "围巾",
+        "wordFr": "écharpe"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "格纹围巾",
+        "wordFr": "écharpe"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "经典围巾",
+        "wordFr": "écharpe classique"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "山羊绒经典方格围巾",
+        "wordFr": "écharpe classique en cachemire check"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "扎染精品围巾",
+        "wordFr": "écharpe de luxe tye dye"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "羊驼围巾",
+        "wordFr": "écharpe en alpaga"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "羊驼、马海毛围巾",
+        "wordFr": "écharpe en alpaga et mohair"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "山羊绒围巾",
+        "wordFr": "écharpe en cachemire"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "经典格纹山羊绒围巾",
+        "wordFr": "écharpe en cachemire check classique"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "经典方格山羊绒围巾",
+        "wordFr": "écharpe en cachemire check classique"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "大围巾",
+        "wordFr": "écharpe en cachemire check classique"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "山羊绒、真丝围巾",
+        "wordFr": "écharpe en cachemire et en soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "鹿纹羊毛提花围巾",
+        "wordFr": "écharpe en jacquard de laine à motif daim"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "标识刺绣羊毛围巾",
+        "wordFr": "écharpe en laine avec logo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "丝巾",
+        "wordFr": "écharpe en soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "人造皮草围巾",
+        "wordFr": "écharpe imitation fourrure"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "印花围巾",
+        "wordFr": "écharpe imprimée"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "蚕丝印花围巾",
+        "wordFr": "écharpe imprimée en soie"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "格纹图案轻巧围巾",
+        "wordFr": "écharpe légère check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "羊绒格纹图案轻巧围巾",
+        "wordFr": "écharpe légère en cachemire check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "羊毛真丝方格轻薄围巾",
+        "wordFr": "écharpe légère en laine et soie check"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "字母图案围巾",
+        "wordFr": "écharpe monogram"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "字母提花围巾",
+        "wordFr": "écharpe monogram jacquard"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "雙面兩用徽標圖案與格紋喀什米爾圍巾",
+        "wordFr": "écharpe réversible en cachemire check avec logo"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "小号围巾",
+        "wordFr": "écharpe small"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "蚕丝格子围巾",
+        "wordFr": "écharpe vichy en soie"
+    },
+    {
+        "frenquence": 3,
+        "wordCn": "格纹围巾",
+        "wordFr": "écharpe à carreaux"
+    },
+    {
+        "frenquence": 7,
+        "wordCn": "松紧发带",
+        "wordFr": "élastiques à cheveux"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "长围巾",
+        "wordFr": "étole"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "披肩",
+        "wordFr": "étole"
+    },
+    {
+        "frenquence": 4,
+        "wordCn": "披肩",
+        "wordFr": "étole signature"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "帆布手机包",
+        "wordFr": "étui de téléphone en tissu"
+    },
+    {
+        "frenquence": 2,
+        "wordCn": "卡包",
+        "wordFr": "étui pour cartes"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "护照夹",
+        "wordFr": "étui pour passeport"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "带标识手机壳",
+        "wordFr": "étui pour téléphone à logo"
+    },
+    {
+        "frenquence": 1,
+        "wordCn": "经典条纹手机壳",
+        "wordFr": "étui pour téléphone à rayures iconiques"
+    }
+]
