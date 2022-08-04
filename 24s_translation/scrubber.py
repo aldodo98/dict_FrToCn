@@ -115,7 +115,8 @@ for each in list_docs:
         list1 = regroup_word_by_len(list_binome)
         print(list1)
         try:
-            with open ("dict_luisaviaroma.csv", "a", encoding='utf-8-sig') as csvfile:
+            file_name = each + '.csv'
+            with open (file_name, "a", encoding='utf-8-sig') as csvfile:
                 writer = csv.writer(csvfile)
                 for each in list1:
                     list2 = []
@@ -123,7 +124,8 @@ for each in list_docs:
                     list2.append(each[0])
                     writer.writerow(list2)
         except Exception as err:
-            with open ("dict_luisaviaroma.csv", "w", encoding='utf-8-sig') as csvfile:
+            file_name = each
+            with open (file_name, "w", encoding='utf-8-sig') as csvfile:
                 writer = csv.writer(csvfile)
                 writer.writerow(["word_fr", "word_cn"])
                 for each in list1:
