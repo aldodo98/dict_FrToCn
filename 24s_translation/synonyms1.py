@@ -1,23 +1,14 @@
-import csv
+import json
 
-list1 = [['流苏', ['and', 'franges']], ['格纹', []], ['嵌花', ['intarsia', 'à', 'carreaux']], ['羊绒', ['en', 'cachemire']], ['围巾', ['Écharpe']]]
-
-print(len(list1[1][1]))
-for i in range(len(list1)):
-    if len(list1)-i<2:break
-    list1[i][1] = list1[i][1][len(list1[i+1][1]):]
-    try:
-        list1[i][1].remove('and')
-    except Exception:
-        pass
-
-print(list1)
-with open ("test.csv", "w", encoding='utf-8-sig') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(["word_fr", "word_cn"])
-    for each in list1:
-        list2 = []
-        list2.append(each[1])
-        list2.append(each[0])
-
-        writer.writerow(list2)
+list_docs = ['enfant-f_accesoires.json', 'enfant-f_chaussures.json', 'enfant-f_offre.json', 'enfant-f_vetements.json',
+             'enfant-g_accesoirs.json', 'enfant-g_chaussures.json', 'enfant-g_offre.json', 'enfant-g_vetements.json',
+             'femme_accesoires.json', 'femme_beaute.json', 'femme_bijoux.json', 'femme_chaussures.json',
+             'femme_offre.json', 'femme_sac.json', 'femme_vetements.json', 'homme_accesoires.json', 'homme_beaute.json',
+             'homme_chaussures.json', 'homme_offre.json', 'homme_sac.json', 'homme_sport.json', 'homme_vetements.json',
+             'maison_arts.json', 'maison_deco.json', 'maison_linge.json', 'maison_luminaires.json',
+             'maison_mobilier.json', 'maison_offre.json']
+for each in list_docs:
+    file_path = 'D:\\dict_FrToCn\\24s_translation\\items_collection\\items_collection\\' + each
+    with open(file_path, encoding='utf-8') as data_site:
+        data = json.load(data_site)
+        print(data[0])
