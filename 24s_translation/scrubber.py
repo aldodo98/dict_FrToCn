@@ -4,6 +4,8 @@ import difflib
 from googletrans import Translator
 import synonyms
 import csv
+import re
+
 def translate(data):
     data = ''.join(data)
     translator = Translator()
@@ -31,7 +33,8 @@ def nettoyer(str1,str2):
             combinaison1 = True
         if combinaison1:
             if each == "草":
-                resultat_cn.remove("人造皮","草")
+                resultat_cn.remove("人造皮")
+                resultat_cn.remove("草")
                 resultat_cn.append(("人造皮草"))
 
     for each in resultat1:
@@ -72,9 +75,9 @@ def regroup_word_by_len(list):
 
 list_docs = ['enfant-f_accesoires.json','enfant-f_chaussures.json','enfant-f_offre.json','enfant-f_vetements.json','enfant-g_accesoirs.json','enfant-g_chaussures.json','enfant-g_offre.json','enfant-g_vetements.json','femme_accesoires.json','femme_beaute.json','femme_bijoux.json','femme_chaussures.json','femme_offre.json','femme_sac.json','femme_vetements.json','homme_accesoires.json','homme_beaute.json','homme_chaussures.json','homme_offre.json','homme_sac.json','homme_sport.json','homme_vetements.json','maison_arts.json','maison_deco.json','maison_linge.json','maison_luminaires.json','maison_mobilier.json','maison_offre.json']
 
-for each in list_docs:
-    file_path = 'D:\\dict_FrToCn\\24s_translation\\items_collection\\items_collection\\' + each
-
+for data_original in list_docs:
+    # file_path = 'D:\\dict_FrToCn\\24s_translation\\items_collection\\items_collection\\' + data_original
+    file_path = '/root/dict_FrToCn/24s_translation/items_collection/items_collection/' + data_original
     with open(file_path,encoding='utf-8') as data_site:
         data = json.load(data_site)
         data1 = []
@@ -114,8 +117,9 @@ for each in list_docs:
 
         list1 = regroup_word_by_len(list_binome)
         print(list1)
+        file_name = '/root/dict_FrToCn/24s_translation/items_collection/dict_' + data_original.split('.')[0] + '.csv'
         try:
-            file_name = each + '.csv'
+
             with open (file_name, "a", encoding='utf-8-sig') as csvfile:
                 writer = csv.writer(csvfile)
                 for each in list1:
@@ -124,7 +128,6 @@ for each in list_docs:
                     list2.append(each[0])
                     writer.writerow(list2)
         except Exception as err:
-            file_name = each
             with open (file_name, "w", encoding='utf-8-sig') as csvfile:
                 writer = csv.writer(csvfile)
                 writer.writerow(["word_fr", "word_cn"])
@@ -133,5 +136,3 @@ for each in list_docs:
                     list2.append(each[1])
                     list2.append(each[0])
                     writer.writerow(list2)
-
-

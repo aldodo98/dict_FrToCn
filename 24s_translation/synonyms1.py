@@ -1,5 +1,5 @@
 import json
-
+import re
 list_docs = ['enfant-f_accesoires.json', 'enfant-f_chaussures.json', 'enfant-f_offre.json', 'enfant-f_vetements.json',
              'enfant-g_accesoirs.json', 'enfant-g_chaussures.json', 'enfant-g_offre.json', 'enfant-g_vetements.json',
              'femme_accesoires.json', 'femme_beaute.json', 'femme_bijoux.json', 'femme_chaussures.json',
@@ -11,4 +11,5 @@ for each in list_docs:
     file_path = 'D:\\dict_FrToCn\\24s_translation\\items_collection\\items_collection\\' + each
     with open(file_path, encoding='utf-8') as data_site:
         data = json.load(data_site)
-        print(data[0])
+    file_name = 'dict_' + each.split('.')[0] + '.csv'
+    print(file_name)
