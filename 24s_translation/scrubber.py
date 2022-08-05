@@ -74,7 +74,6 @@ def regroup_word_by_len(list):
         pass
 
 list_docs = ['enfant-f_accesoires.json','enfant-f_chaussures.json','enfant-f_offre.json','enfant-f_vetements.json','enfant-g_accesoirs.json','enfant-g_chaussures.json','enfant-g_offre.json','enfant-g_vetements.json','femme_accesoires.json','femme_beaute.json','femme_bijoux.json','femme_chaussures.json','femme_offre.json','femme_sac.json','femme_vetements.json','homme_accesoires.json','homme_beaute.json','homme_chaussures.json','homme_offre.json','homme_sac.json','homme_sport.json','homme_vetements.json','maison_arts.json','maison_deco.json','maison_linge.json','maison_luminaires.json','maison_mobilier.json','maison_offre.json']
-
 for data_original in list_docs:
     # file_path = 'D:\\dict_FrToCn\\24s_translation\\items_collection\\items_collection\\' + data_original
     file_path = '/root/dict_FrToCn/24s_translation/items_collection/items_collection/' + data_original
@@ -118,6 +117,8 @@ for data_original in list_docs:
         list1 = regroup_word_by_len(list_binome)
         print(list1)
         file_name = '/root/dict_FrToCn/24s_translation/items_collection/dict_' + data_original.split('.')[0] + '.csv'
+        # file_name = 'dict_' + data_original.split('.')[0] + '.csv'
+
         try:
 
             with open (file_name, "a", encoding='utf-8-sig') as csvfile:
