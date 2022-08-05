@@ -140,6 +140,5 @@ try:
                         list2.append(each[0])
                         writer.writerow(list2)
 except Exception as error:
-    with open('error_file.txt', "a", encoding='utf-8-sig') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(error)
+    print(error)
+    pass
