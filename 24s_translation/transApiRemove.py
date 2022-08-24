@@ -35,7 +35,6 @@ def data_pretraiter(data):
     except Exception:
         return ' '.join(data_fr), data_garde
 
-
 def transDef(word,dict):
     dict_name = dict
     dict_path = dict_repertoire + dict_name
