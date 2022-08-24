@@ -1,7 +1,6 @@
 import socket
 import sys
 import threading
-from PIL import Image
 import json
 from googletrans import Translator
 import re
