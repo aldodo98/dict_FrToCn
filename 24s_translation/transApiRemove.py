@@ -5,7 +5,7 @@ import json
 from googletrans import Translator
 import re
 
-dict_repertoire = '\\root\\dict_FrToCn\\24s_translation\\24s\\dict_24s'
+dict_repertoire = '\\root\\dict_FrToCn\\24s_translation\\24s\\dict_24s\\'
 
 
 def translate(data):
