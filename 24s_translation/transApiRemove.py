@@ -6,7 +6,7 @@ import json
 from googletrans import Translator
 import re
 
-dict_repertoire = 'D:\dict_FrToCn\\24s_translation\\24s\\dict_24s\\'
+dict_repertoire = '\\root\\dict_FrToCn\\24s_translation\\24s\\dict_24s'
 
 
 def translate(data):
@@ -33,7 +33,7 @@ def data_pretraiter(data):
                     new_data_fr.append(each)
             return ' '.join(new_data_fr),data_garde
     except Exception:
-        return ' '.join(data_fr),data_garde
+        return ' '.join(data_fr), data_garde
 
 
 def transDef(word,dict):
