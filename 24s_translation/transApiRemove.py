@@ -2,10 +2,20 @@ import socket
 import sys
 import threading
 import json
+import pymysql
 from googletrans import Translator
 import re
 
+#调用本地词典
 dict_repertoire = '/root/dict_FrToCn/24s_translation/24s/dict_24s/'
+# dict_repertoire = 'D:\dict_FrToCn\\24s_translation\\24s\\dict_24s\\'
+#调用数据库词典
+db = pymysql.connect(host='rm-gw85nhhvwr647k45lco.mysql.germany.rds.aliyuncs.com',
+                     user='spider',
+                     password='heyder@20220701',
+                     database='spider')
+cursor = db.cursor()
+
 
 
 def translate(data):
@@ -37,22 +47,27 @@ def data_pretraiter(data):
 def transDef(word,dict):
     dict_name = dict
     dict_path = dict_repertoire + dict_name
-    with open(dict_path, encoding='utf-8') as accessoires_dict:
-        data = json.load(accessoires_dict)
-        emptyDict = {}
-        frWord = word.lower()
-        for each in data:
-            emptyDict[each['wordFr']] = each['wordCn']
-        try:
-            return (emptyDict[frWord])
-        except Exception as err:
-            if len(frWord.split(' ')) > 3:
-                col = []
-                data_apresTraitement, mot_garde = data_pretraiter(frWord)
-                return (mot_garde + translate(data_apresTraitement))
-            else:
-                frWord = frWord.split(' ')[0]
-                return (emptyDict[frWord])
+    #如果需要试用本地词典，将下列解注释然后注释的访问数据库的部分
+    # with open(dict_path, encoding='utf-8') as accessoires_dict:
+    #     data = json.load(accessoires_dict)
+    #     emptyDict = {}
+    frWord = word.lower()
+    #     for each in data:
+    #         emptyDict[each['wordFr']] = each['wordCn']
+    cursor.execute("SELECT dest FROM spider.spider_dictionary where source='"+word+"'")
+    dataDict = cursor.fetchone()
+    try:
+        return (dataDict)
+    except Exception as err:
+        if len(frWord.split(' ')) > 3:
+            col = []
+            data_apresTraitement, mot_garde = data_pretraiter(frWord)
+            return (mot_garde + translate(data_apresTraitement))
+        else:
+            frWord = frWord.split(' ')[0]
+            cursor.execute("SELECT dest FROM spider.spider_product where source=" + frWord)
+            dataDict = cursor.fetchone()
+            return (dataDict)
 
 
 def main():
@@ -112,6 +127,9 @@ class ServerThreading(threading.Thread):
                     dict = msg.split(';')[1]
                     break
             sendmsg = transDef(wordFr,dict)
+            if not sendmsg is not None:
+                sendmsg = translate(wordFr)
+                print('建议在管理端词典中添加该词条及翻译：'+wordFr)
             # 发送数据
             self._socket.send(("%s" % sendmsg).encode(self._encoding))
             pass
