@@ -40,7 +40,7 @@ def data_pretraiter(data):
                         have = False
                 if have:
                     new_data_fr.append(each)
-            return ' '.join(new_data_fr),data_garde
+            return ' '.join(new_data_fr), data_garde
     except Exception:
         return ' '.join(data_fr), data_garde
 
@@ -65,8 +65,7 @@ def transDef(word,dict):
             dataDict = cursor.fetchone()
             data_apresTraitement, mot_garde = data_pretraiter(frWord.split(' ')[1:])
             fr = translate(data_apresTraitement)
-            print(dataDict)
-            return (fr+mot_garde+' '+dataDict[0])
+            return (mot_garde+fr+dataDict[0])
 
     except Exception as err:
         print('transDef:',err)
