@@ -60,6 +60,12 @@ def transDef(word,dict):
         if dataDict is not None:
             return (dataDict)
         else:
+            #改变检索方式，这样会有更少的词需要添加进词典，但是可以进一步增加正确度
+            #在词典中组合匹配前三个词
+            # for i in range(0, 3):
+            #     word = frWord(:i)
+            #     cursor.execute("SELECT dest FROM spider.spider_dictionary where source='" + word + "'")
+            #     dataDict = cursor.fetchone()
             FrWord = frWord.split(' ')[0]
             cursor.execute("SELECT dest FROM spider.spider_dictionary where source='" + FrWord+"'")
             dataDict = cursor.fetchone()
