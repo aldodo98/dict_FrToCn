@@ -26,7 +26,7 @@ def translate(data):
 
 def data_pretraiter(data):
 
-    data_fr = re.split(' ',data.lower())
+    data_fr = data
     data_garde = ''
     try:
         with open(dict_repertoire+'motGarde_dict.json', encoding='utf-8') as motGarde_dict:
@@ -47,7 +47,7 @@ def data_pretraiter(data):
 def transDef(word,dict):
     dict_name = dict
     dict_path = dict_repertoire + dict_name
-    #如果需要试用本地词典，将下列解注释然后注释的访问数据库的部分
+    #如果需要用本地词典，将下列解注释然后注释访问数据库的部分
     # with open(dict_path, encoding='utf-8') as accessoires_dict:
     #     data = json.load(accessoires_dict)
     #     emptyDict = {}
@@ -57,17 +57,38 @@ def transDef(word,dict):
     cursor.execute("SELECT dest FROM spider.spider_dictionary where source='"+word+"'")
     dataDict = cursor.fetchone()
     try:
-        return (dataDict)
+        if dataDict is not None:
+            return (dataDict)
+        else:
+            FrWord = frWord.split(' ')[0]
+            cursor.execute("SELECT dest FROM spider.spider_dictionary where source='" + FrWord+"'")
+            dataDict = cursor.fetchone()
+            data_apresTraitement, mot_garde = data_pretraiter(frWord.split(' ')[1:])
+            fr = translate(data_apresTraitement)
+            print(dataDict)
+            return (fr+mot_garde+' '+dataDict[0])
+
     except Exception as err:
-        if len(frWord.split(' ')) > 3:
-            col = []
+        print('transDef:',err)
+        print('建议在管理端词典中添加该基础词条及翻译：'+frWord.split(' ')[0])
+
+
+def transDef_ModeEtendu(word,dict):
+    # dict_name = dict
+    # dict_path = dict_repertoire + dict_name
+
+    frWord = word.lower()
+    cursor.execute("SELECT dest FROM spider.spider_dictionary where source='"+word+"'")
+    dataDict = cursor.fetchone()
+    try:
+        if dataDict is not None:
+            return (dataDict)
+        else:
             data_apresTraitement, mot_garde = data_pretraiter(frWord)
             return (mot_garde + translate(data_apresTraitement))
-        else:
-            frWord = frWord.split(' ')[0]
-            cursor.execute("SELECT dest FROM spider.spider_product where source=" + frWord)
-            dataDict = cursor.fetchone()
-            return (dataDict)
+
+    except Exception as err:
+        print(err)
 
 
 def main():
@@ -76,7 +97,7 @@ def main():
     # 获取本地主机名称
     host = socket.gethostname()
     # 设置一个端口
-    port = 12345
+    port = 10086
     # 将套接字与本地主机和端口绑定
     serversocket.bind((host, port))
     # 设置监听最大连接数
@@ -94,7 +115,7 @@ def main():
             t.start()
             pass
         except Exception as identifier:
-            print(identifier)
+            print('main:',identifier)
             pass
         pass
     serversocket.close()
@@ -122,20 +143,21 @@ class ServerThreading(threading.Thread):
                 msg += rec.decode(self._encoding)
                 # 文本接受是否完毕，因为python socket不能自己判断接收数据是否完毕，
                 # 所以需要自定义协议标志数据接受完毕
-                if msg.strip().endswith('over'):
-                    wordFr = msg.split(';')[0]
-                    dict = msg.split(';')[1]
+                if msg.strip().endswith(',over'):
+                    wordFr = msg[:-5]
+                    print(wordFr)
+                    dict = 'accessoires_dict'
                     break
             sendmsg = transDef(wordFr,dict)
-            if not sendmsg is not None:
+            if sendmsg is None:
                 sendmsg = translate(wordFr)
-                print('建议在管理端词典中添加该词条及翻译：'+wordFr)
+                print('添加整句词条及其翻译：'+wordFr)
             # 发送数据
             self._socket.send(("%s" % sendmsg).encode(self._encoding))
             pass
         except Exception as identifier:
             self._socket.send("500".encode(self._encoding))
-            print(identifier)
+            print('run:',identifier)
             pass
         finally:
             self._socket.close()

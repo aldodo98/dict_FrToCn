@@ -23,7 +23,7 @@ public class client {
             //log.info("调用远程接口:host=>"+ip+",port=>"+12345);
             host = "172.17.57.113";
             // 初始化套接字，设置访问服务的主机和进程端口号，HOST是访问python进程的主机名称，可以是IP地址或者域名，PORT是python进程绑定的端口号
-            Socket socket = new Socket(host,12345);
+            Socket socket = new Socket(host,10086);
 
             // 获取输出流对象
             OutputStream os = socket.getOutputStream();
@@ -32,8 +32,8 @@ public class client {
             out.print(bri.readLine());
             // 告诉服务进程，内容发送完毕，可以开始处理
             //print("哪个词典？accessoires_dict.json,beaute_dict.json,bijoux_dict.json,chaussures_dict.json,pretaporter_dict.json,sac_dict.json")
-            out.print(";accessoires_dict.json");
-            out.print(";over");
+//            out.print(";accessoires_dict.json");
+            out.print(",over");
             // 获取服务进程的输入流
             InputStream is = socket.getInputStream();
             BufferedReader br = new BufferedReader(new InputStreamReader(is,"utf-8"));
